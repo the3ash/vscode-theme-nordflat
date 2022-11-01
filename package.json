@@ -1,0 +1,23 @@
+{
+  "name": "dorn",
+  "displayName": "Dorn",
+  "description": "Another dark theme based on Nord palette.",
+  "publisher": "3ash",
+  "version": "0.0.1",
+  "icon": "images/theme-logo.png",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dorn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dorn-color-theme.json"
+      }
+    ]
+  }
+}
