@@ -1,33 +1,33 @@
 {
-	"name": "dorn",
-	"displayName": "Dorn",
-	"description": "Another dark theme based on Nord palette.",
-	"publisher": "3ash",
-	"version": "0.0.1",
-	"icon": "images/theme-logo.png",
-	"engines": {
-		"vscode": "^1.72.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/the3ash/vscode-theme-dorn"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Dorn",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Dorn-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "17f7c422-3572-46e8-96ba-3187f3749f73",
-		"publisherDisplayName": "3ash",
-		"publisherId": "df428ef4-9b00-486a-8aed-2cbda4a4518d",
-		"isPreReleaseVersion": false
-	}
+  "name": "dorn",
+  "displayName": "Dorn",
+  "description": "Another dark theme based on Nord palette.",
+  "publisher": "3ash",
+  "version": "0.0.2",
+  "icon": "images/theme-logo.png",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the3ash/vscode-theme-dorn"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dorn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dorn-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "17f7c422-3572-46e8-96ba-3187f3749f73",
+    "publisherDisplayName": "3ash",
+    "publisherId": "df428ef4-9b00-486a-8aed-2cbda4a4518d",
+    "isPreReleaseVersion": false
+  }
 }
