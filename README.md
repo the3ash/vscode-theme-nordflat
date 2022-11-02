@@ -3,4 +3,4 @@ Just another dark theme based on  [Better-MIPS](https://github.com/vasilescur/vs
 and Nord palette.
 
 ## Preview
-![preview](https://github.com/the3ash/vscode-theme-dorn/blob/main/images/preview.png?raw=true)
+![preview](https://github.com/the3ash/vscode-theme-dorn/blob/main/images/preview.svg?raw=true)
