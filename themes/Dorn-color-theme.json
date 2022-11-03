@@ -89,6 +89,7 @@
     "editorWarning.foreground": "#ebcb8b",
     "editorWhitespace.foreground": "#4c566ab3",
     "editorWidget.background": "#2e3440",
+    "editorOverviewRuler.border": "#d8dee900",
     "errorForeground": "#bf616a",
     "extensionButton.prominentBackground": "#434c5e",
     "extensionButton.prominentForeground": "#d8dee9",
