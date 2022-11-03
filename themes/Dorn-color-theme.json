@@ -203,7 +203,16 @@
     "welcomePage.buttonHoverBackground": "#4c566a",
     "widget.shadow": "#00000066",
     "quickInputList.focusBackground": "#434c5e",
-    "quickInputList.focusForeground": "#d8dee9"
+    "quickInputList.focusForeground": "#d8dee9",
+
+    // Bracket Colorization
+    "editorBracketHighlight.foreground1": "#ebcb8bc0",
+    "editorBracketHighlight.foreground2": "#88C0D0",
+    "editorBracketHighlight.foreground3": "#b48ead",
+    "editorBracketHighlight.foreground4": "#A3BE8C",
+    "editorBracketHighlight.foreground5": "#D08770",
+    "editorBracketHighlight.foreground6": "#bf616a",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#d8dee9c0"
 
     //"activityBar.inactiveForeground": "#d8dee999",
     //"breadcrumb.activeSelectionForeground": "#f5f6f9",
