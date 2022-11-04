@@ -209,6 +209,7 @@
     "widget.shadow": "#00000066",
     "quickInputList.focusBackground": "#434c5e",
     "quickInputList.focusForeground": "#d8dee9",
+    "scrollbar.shadow": "#00000000",
 
     // Bracket Colorization
     "editorBracketHighlight.foreground1": "#ebcb8bc0",
