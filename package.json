@@ -1,9 +1,9 @@
 {
-  "name": "dorn",
-  "displayName": "Dorn",
+  "name": "nord-flat",
+  "displayName": "Nord Flat",
   "description": "Another dark theme based on Nord palette.",
   "publisher": "3ash",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "icon": "images/theme-logo.png",
   "engines": {
     "vscode": "^1.72.0"
@@ -13,14 +13,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/the3ash/vscode-theme-dorn"
+    "url": "https://github.com/the3ash/vscode-theme-nordflat"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Dorn",
+        "label": "nord-flat",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dorn-color-theme.json"
+        "path": "./themes/nordflat-color-theme.json"
       }
     ]
   },
