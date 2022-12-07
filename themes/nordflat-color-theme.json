@@ -218,7 +218,8 @@
     "editorBracketHighlight.foreground4": "#A3BE8C",
     "editorBracketHighlight.foreground5": "#D08770",
     "editorBracketHighlight.foreground6": "#bf616a",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#d8dee9c0"
+    "editorBracketHighlight.unexpectedBracket.foreground": "#d8dee9c0",
+    "editorGroup.border": "#3b4252"
 
     //"activityBar.inactiveForeground": "#d8dee999",
     //"breadcrumb.activeSelectionForeground": "#f5f6f9",
