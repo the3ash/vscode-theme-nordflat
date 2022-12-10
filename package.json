@@ -3,7 +3,7 @@
   "displayName": "Nord Flat",
   "description": "Another dark theme based on Nord palette.",
   "publisher": "3ash",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "icon": "images/theme-logo.png",
   "engines": {
     "vscode": "^1.72.0"
@@ -14,7 +14,7 @@
   "keywords": [
     "Theme",
     "Dark Theme",
-    "Nord Palette"
+    "Nord"
   ],
   "repository": {
     "type": "git",
@@ -23,14 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "nord-flat",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nordflat-color-theme.json"
-      },
-      {
-        "label": "nord-flat-italic",
+        "label": "Nord Flat Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/nordflat-color-theme-italic.json"
+      },
+      {
+        "label": "Nord Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nordflat-color-theme.json"
       }
     ]
   },
