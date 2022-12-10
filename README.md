@@ -10,13 +10,13 @@ Highly inspired by [Better-MIPS](https://github.com/vasilescur/vscode-Better-MIP
 
 ![italic](/images/italic-preview.png)
 
-### Not Italic
+### No Italic
 
 ![italic](/images/preview.png)
 
 ## Installation
 
-Install from [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=3ash.nord-flat).
+Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=3ash.nord-flat).
 
 ## Disable Italics
 
