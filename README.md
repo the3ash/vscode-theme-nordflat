@@ -26,13 +26,13 @@ Select `Nord Flat` as your color theme.
 
 - Product icon: [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
 
-- Font: [Dank Mono](https://dank.sh/)
-
 - Move side bar right:
 
 ```
 "workbench.sideBar.location": "right",
 ```
+
+- Font: [Dank Mono](https://dank.sh/)
 
 - Activate font ligatures:
 
