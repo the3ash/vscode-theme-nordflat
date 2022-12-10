@@ -3,8 +3,8 @@
   "displayName": "Nord Flat",
   "description": "Another dark theme based on Nord palette.",
   "publisher": "3ash",
-  "version": "0.2.1",
-  "icon": "images/theme-logo.png",
+  "version": "0.2.2",
+  "icon": "images/theme-icon.png",
   "engines": {
     "vscode": "^1.72.0"
   },
