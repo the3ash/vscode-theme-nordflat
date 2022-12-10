@@ -1,6 +1,7 @@
 # Nord Flat
 
-A flat style Visual Studio Code theme based on [Nord](https://github.com/arcticicestudio/nord-visual-studio-code) color palette.<br>
+A flat style Visual Studio Code theme based on [Nord](https://github.com/arcticicestudio/nord-visual-studio-code) color palette.
+
 Highly inspired by [Better-MIPS](https://github.com/vasilescur/vscode-Better-MIPS).
 
 ## Screenshots
