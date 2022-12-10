@@ -25,7 +25,7 @@ Select `Nord Flat` as your color theme.
 ## Preferences shown in the screenshots
 
 - Product icon: [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
-- File icon: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 - Font: [Dank Mono](https://dank.sh/)
 
 - Move side bar right:
