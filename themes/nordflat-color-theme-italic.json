@@ -153,9 +153,8 @@
     "selection.background": "#88c0d099",
     "sideBar.background": "#2e3440",
     "sideBar.border": "#3b4252",
-    // "sideBarSectionHeader.border": "#ff0000",
     "sideBar.foreground": "#d8dee9",
-    "sideBarSectionHeader.background": "#3b4252",
+    "sideBarSectionHeader.background": "#3b425200",
     "sideBarSectionHeader.foreground": "#d8dee9",
     "sideBarTitle.foreground": "#d8dee9",
     "statusBar.background": "#2e3440",
@@ -219,7 +218,6 @@
     "editorBracketHighlight.foreground6": "#bf616a",
     "editorBracketHighlight.unexpectedBracket.foreground": "#d8dee9c0"
 
-    //"activityBar.inactiveForeground": "#d8dee999",
     //"breadcrumb.activeSelectionForeground": "#f5f6f9",
     //"breadcrumb.background": "#2e3440",
     //"breadcrumb.focusForeground": "#f5f6f9",
