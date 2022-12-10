@@ -8,11 +8,11 @@ Highly inspired by [Better-MIPS](https://github.com/vasilescur/vscode-Better-MIP
 
 ### Italic
 
-![italic](/images/italic-preview.png)
+![italic](/images/preview-italic.png)
 
 ### No Italic
 
-![italic](/images/preview.png)
+![No italic](/images/preview.png)
 
 ## Installation
 
@@ -22,15 +22,27 @@ Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.c
 
 Select `Nord Flat` as your color theme.
 
-## Customization
+## Preferences shown in the screenshots
 
-The font used in the screenshots is Dank Mono, [available here](https://dank.sh/).
+- Product icon: [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
+- File icon: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- Font: [Dank Mono](https://dank.sh/)
 
-Settings options shown in the screenshot:
+Move side bar right:
 
 ```
-"workbench.sideBar.location": "right", //Move side bar right
+"workbench.sideBar.location": "right",
+```
+
+Activate font ligatures:
+
+```
 "editor.fontFamily": "Dank Mono",
-"editor.fontLigatures": true, //Activate font ligatures
-"editor.matchBrackets": "near" //Highlights matching brackets
+"editor.fontLigatures": true,
+```
+
+Highlight matching brackets:
+
+```
+"editor.matchBrackets": "near"
 ```
