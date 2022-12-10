@@ -1,9 +1,9 @@
 {
   "name": "nord-flat",
   "displayName": "Nord Flat",
-  "description": "Another dark theme based on Nord palette.",
+  "description": "A flat style Nord theme.",
   "publisher": "3ash",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "icon": "images/theme-icon.png",
   "engines": {
     "vscode": "^1.72.0"
