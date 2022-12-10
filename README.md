@@ -18,9 +18,9 @@ Highly inspired by [Better-MIPS](https://github.com/vasilescur/vscode-Better-MIP
 
 Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=3ash.nord-flat).
 
-## Disable Italics
+## Enable Italics
 
-Select `Nord Flat` as your color theme.
+Select `Nord Flat Italic` as your color theme.
 
 ## Preferences shown in the screenshots
 
