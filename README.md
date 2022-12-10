@@ -24,25 +24,33 @@ Select `Nord Flat` as your color theme.
 
 ## Preferences shown in the screenshots
 
-Product icon: [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)<br>
-File icon: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)<br>
-Font: [Dank Mono](https://dank.sh/)
+- Product icon: [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
+- File icon: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- Font: [Dank Mono](https://dank.sh/)
 
-Move side bar right:
+- Move side bar right:
 
 ```
 "workbench.sideBar.location": "right",
 ```
 
-Activate font ligatures:
+- Activate font ligatures:
 
 ```
 "editor.fontFamily": "Dank Mono",
 "editor.fontLigatures": true,
 ```
 
-Highlight matching brackets:
+- Highlight matching brackets:
 
 ```
 "editor.matchBrackets": "near"
+```
+
+## Other version
+
+- [Warp](https://www.warp.dev/)
+
+```
+curl -s -N 'https://warp-themes.com/d/VY5mnxCaawlQP2gmg18w' | bash
 ```
