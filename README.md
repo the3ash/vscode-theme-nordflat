@@ -54,3 +54,5 @@ Select `Nord Flat Italic` as your color theme.
 ```
 curl -s -N 'https://warp-themes.com/d/VY5mnxCaawlQP2gmg18w' | bash
 ```
+
+- [iTerm2](https://github.com/the3ash/vscode-theme-nordflat/blob/main/nord_flat.itermcolors)
