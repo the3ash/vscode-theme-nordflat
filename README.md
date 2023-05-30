@@ -32,14 +32,6 @@ Select `Nord Flat Italic` as your color theme.
 "workbench.sideBar.location": "right",
 ```
 
-- Font: [Dank Mono](https://dank.sh/)
-
-- Activate font ligatures:
-
-```
-"editor.fontFamily": "Dank Mono",
-"editor.fontLigatures": true,
-```
 
 - Highlight matching brackets:
 
