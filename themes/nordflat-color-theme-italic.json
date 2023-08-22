@@ -44,7 +44,8 @@
     "editorBracketMatch.background": "#2e344000",
     "editorBracketMatch.border": "#d8dee966",
     "editorCodeLens.foreground": "#4c566a",
-    "editorCursor.foreground": "#d8dee9",
+    "editorCursor.background": "#2e3440",
+    "editorCursor.foreground": "#88c0d0",
     "editorError.border": "#434C5E00",
     "editorError.foreground": "#bf616a",
     "editorGroup.border": "#434C5E66",
@@ -220,6 +221,8 @@
     "terminal.ansiYellow": "#ebcb8b",
     "terminal.background": "#2e3440",
     "terminal.foreground": "#d8dee9",
+    "terminalCursor.background": "#2e3440",
+    "terminalCursor.foreground": "#88c0d0",
     "titleBar.activeBackground": "#2e3440",
     "titleBar.activeForeground": "#d8dee999",
     "titleBar.border": "#2e344000",
@@ -726,10 +729,7 @@
     },
     {
       "name": "[Java](JavaDoc) Keyword Other Documentation Directive/Custom",
-      "scope": [
-        "source.java keyword.other.documentation.directive",
-        "source.java keyword.other.documentation.custom"
-      ],
+      "scope": ["source.java keyword.other.documentation.directive", "source.java keyword.other.documentation.custom"],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -750,10 +750,7 @@
     },
     {
       "name": "[Java](JavaDoc) Meta Tag Template Link",
-      "scope": [
-        "source.java meta.tag.template.link.javadoc",
-        "source.java string.other.link.title.javadoc"
-      ],
+      "scope": ["source.java meta.tag.template.link.javadoc", "source.java string.other.link.title.javadoc"],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -1022,10 +1019,7 @@
     },
     {
       "name": "[Python] Decorator",
-      "scope": [
-        "source.python entity.name.function.decorator",
-        "source.python meta.function.decorator support.type"
-      ],
+      "scope": ["source.python entity.name.function.decorator", "source.python meta.function.decorator support.type"],
       "settings": {
         "foreground": "#D08770"
       }
@@ -1053,9 +1047,7 @@
     },
     {
       "name": "[Python] Function Parameter Special",
-      "scope": [
-        "source.python meta.function.parameters variable.parameter.function.language.special.self"
-      ],
+      "scope": ["source.python meta.function.parameters variable.parameter.function.language.special.self"],
       "settings": {
         "foreground": "#81A1C1"
       }
@@ -1117,11 +1109,7 @@
     },
     {
       "name": "[TypeScript] Static Class Support",
-      "scope": [
-        "source.ts support.constant.math",
-        "source.ts support.constant.dom",
-        "source.ts support.constant.json"
-      ],
+      "scope": ["source.ts support.constant.math", "source.ts support.constant.dom", "source.ts support.constant.json"],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -1156,10 +1144,7 @@
     },
     {
       "name": "[XML] Entity Name Tag Namespace",
-      "scope": [
-        "text.xml string.unquoted.cdata",
-        "text.xml string.unquoted.cdata punctuation.definition.string"
-      ],
+      "scope": ["text.xml string.unquoted.cdata", "text.xml string.unquoted.cdata punctuation.definition.string"],
       "settings": {
         "foreground": "#D08770",
         "fontStyle": "italic"
