@@ -3,7 +3,7 @@
   "displayName": "Nord Flat",
   "description": "A flat style Nord theme.",
   "publisher": "3ash",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "icon": "images/theme-icon.png",
   "engines": {
     "vscode": "^1.72.0"
@@ -40,5 +40,8 @@
     "publisherDisplayName": "3ash",
     "publisherId": "df428ef4-9b00-486a-8aed-2cbda4a4518d",
     "isPreReleaseVersion": false
+  },
+  "dependencies": {
+    "punycode": "^2.3.1"
   }
 }
