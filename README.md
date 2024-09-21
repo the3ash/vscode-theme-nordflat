@@ -4,13 +4,16 @@ A flat style Visual Studio Code theme based on [Nord](https://github.com/arctici
 
 Highly inspired by [Better-MIPS](https://github.com/vasilescur/vscode-Better-MIPS).
 
+
 ## Screenshots
 
 ![preview](/images/preview.png)
 
+
 ## Installation
 
 Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=3ash.nord-flat).
+
 
 ## Enable italics
 
