@@ -15,8 +15,15 @@ Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.c
 Select `Nord Flat Italic` as your color theme.
 
 ## Other versions
-- [Warp](https://github.com/the3ash/vscode-theme-nordflat/blob/main/nord_flat_warp.yaml)
-- [iTerm2](https://github.com/the3ash/vscode-theme-nordflat/blob/main/nord_flat.itermcolors)
+- Warp
+ ```bash
+mkdir -p ~/.warp/themes
+curl -L -o ~/.warp/themes/nord_flat_warp.yaml https://raw.githubusercontent.com/the3ash/vscode-theme-nordflat/main/nord_flat_warp.yaml
+  ```
+- iTerm2
+```bash
+curl -L -o nord_flat.itermcolors https://raw.githubusercontent.com/the3ash/vscode-theme-nordflat/main/nord_flat.itermcolors
+```
 
 ## License
 MIT
