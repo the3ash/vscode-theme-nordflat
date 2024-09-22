@@ -3,9 +3,9 @@
   "displayName": "Nord Flat",
   "description": "A flat style Nord theme.",
   "publisher": "3ash",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "icon": "images/theme-icon.png",
-  "homepage": "https://github.com/your/github/link/README.md",
+  "homepage": "https://github.com/the3ash/vscode-theme-nordflat/blob/main/README.md",
   "engines": {
     "vscode": "^1.72.0"
   },
